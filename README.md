@@ -32,6 +32,26 @@
   </ol>
 </details>
 
+## About The Project
+
+## Built With
+
+## Getting Started
+
+### Prerequisites
+
+### Installation
+
+## Usage
+
+## Roadmap
+
+## Contributing
+
+## Contact
+
+## Acknowledgments
+
 
 # StatsBomb Open Data
 
