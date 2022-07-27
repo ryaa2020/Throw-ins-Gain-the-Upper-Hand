@@ -1,4 +1,9 @@
 # Throw Ins: Gain the Upper Hand
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  </a>
+  <h3 align="center">Throw Ins: Gain the Upper Hand</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
