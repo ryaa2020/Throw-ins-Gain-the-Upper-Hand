@@ -21,7 +21,3 @@ The [data](./data/) is provided as JSON files exported from the StatsBomb Data A
 * StatsBomb 360 data for selected matches, stored in [`three-sixty`](./data/three-sixty/). Each file is named for a match ID.
 
 Some documentation about the meaning of different events and the format of the JSON can be found in the [`doc`](./doc) directory.
-
-## Careers
-
-If you're interested in football data, [StatsBomb is always hiring!](https://statsbomb.bamboohr.com/jobs/)
