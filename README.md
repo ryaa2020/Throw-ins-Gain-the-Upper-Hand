@@ -1,4 +1,49 @@
 # Throw Ins: Gain the Upper Hand
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li><a href="#built with">Built With</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+## About The Project
+
+## Built With
+
+## Getting Started
+
+### Prerequisites
+
+### Installation
+
+## Usage
+
+## Roadmap
+
+## Contributing
+
+## Contact
+
+## Acknowledgments
+
+
 # StatsBomb Open Data
 
 Welcome to the StatsBomb Open Data repository.
@@ -21,7 +66,3 @@ The [data](./data/) is provided as JSON files exported from the StatsBomb Data A
 * StatsBomb 360 data for selected matches, stored in [`three-sixty`](./data/three-sixty/). Each file is named for a match ID.
 
 Some documentation about the meaning of different events and the format of the JSON can be found in the [`doc`](./doc) directory.
-
-## Careers
-
-If you're interested in football data, [StatsBomb is always hiring!](https://statsbomb.bamboohr.com/jobs/)
