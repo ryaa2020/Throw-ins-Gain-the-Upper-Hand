@@ -35,9 +35,9 @@
 [![Jupyter Badge](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/try)
 
 <!--This project is written in Python programming language. <br>-->
-The only prerequisites for using this GitHub repo is that you have a computer, internet connection and the desire to learn more about football analytics. 
+To use this GitHub repo, you need a computer and internet connection.
 
-The following open-source [Python](https://www.python.org/) libraries listed below are some of the most commonly used in Data Science that feature in the the notebooks in this repository. Most of these libraries can be obtained by downloading and installing [Anaconda](https://anaconda.org/anaconda/conda). Step-by-step guides to do this can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
+The following open-source [Python](https://www.python.org/) libraries listed below are the ones that feature in the the notebooks in this repository. Most of these libraries can be obtained by downloading and installing [Anaconda](https://anaconda.org/anaconda/conda). Step-by-step guides to do this can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
 
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
