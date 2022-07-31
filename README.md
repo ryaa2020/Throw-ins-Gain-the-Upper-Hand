@@ -56,7 +56,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 
 You will need to install the libraries listed above to run our code. You can find instructions on how to do so [here](https://docs.python.org/3/installing/index.html).
 
-This is an example of how to get statsbomb data. 
+This is an example of how to get Statsbomb event data. 
 * Statsbomb
   ```sh
   sb.events(match_id = 3788741)
