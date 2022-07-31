@@ -58,20 +58,20 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 You will need to install the libraries listed above to run our code. You can find instructions on how to do so [here](https://docs.python.org/3/installing/index.html).
 
 
-<a href="#table-of-contents">Back to Contents</a>
+<p align="right"><a href="#table-of-contents">Back to Contents</a>
 
 
 ## Usage
 
 This project can be used to analyze soccer throw-ins and provide soccer teams with data on how to more successfully utilize their throw-in opportunities.
 
-<a href="#table-of-contents">Back to Contents</a>
+<p align="right"><a href="#table-of-contents">Back to Contents</a>
 
 ## Navigating our Code Repo
 
 The project is organized into several folders. The firstContact folder contains all of our files relevant to making successful first contact after a throw-in. The fullData folder contains the code we used to access all the necessary data and create files to store that data. The playerThrowIn folder holds all of our work relating to player-specific throw-in data, while the retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. Lastly, the shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
 
-<a href="#table-of-contents">Back to Contents</a>
+<p align="right"><a href="#table-of-contents">Back to Contents</a>
 
 ## Contributing
 
@@ -91,4 +91,4 @@ Project Link: https://github.com/ryaa2020/Throw-ins-Gain-the-Upper-Hand/
 
 Thank you to Women in Sports Data for providing this opportunity for us to research this topic. We also want to thank our mentor, LJ Rader, for helping us throughout our process. Lastly, we want to thank StatsBomb for the ample amount of data they provided us with to do our research! 
 
-<a href="#table-of-contents">Back to Contents</a>
+<p align="right"><a href="#table-of-contents">Back to Contents</a>
