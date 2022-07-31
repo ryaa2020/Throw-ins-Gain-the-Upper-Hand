@@ -80,8 +80,12 @@ Anna Hartman and Rachel Yang
 ## Contact
 
 Anna: aeha2020@mymail.pomona.edu
+
 Rachel: ryaa2020@mymail.pomona.edu
+
 Project Link: https://github.com/ryaa2020/Throw-ins-Gain-the-Upper-Hand/
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgments
 
