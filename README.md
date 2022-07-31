@@ -79,14 +79,15 @@ More specifically...
 ## Navigating our Code
 
 The project is organized into several folders. 
-  + The firstContact folder contains all of our files relevant to making successful first contact after a throw-in.
-    + analyze_throwIn.ipynb
-    + firstContact.ipynb
-    + firstContact_regression.ipynb
+  + The starter.ipynb and regression.ipynb are files we used to experiment. 
   + The fullData folder contains the code we used to access all the necessary data and create files to store that data. 
     + getFullData.ipynb
     + fulldata.csv
     + full_data_sorted.csv
+  + The firstContact folder contains all of our files relevant to making successful first contact after a throw-in.
+    + analyze_throwIn.ipynb
+    + firstContact.ipynb
+    + firstContact_regression.ipynb
   + The playerThrowIn folder holds all of our work relating to player-specific throw-in data. 
     + player_throwIn.ipynb
   + The retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. 
@@ -94,7 +95,6 @@ The project is organized into several folders.
   + The shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
     + shot_on_goal.ipynb
     + shot_regression.ipynb
-  + The starter.ipynb and regression.ipynb are files we used to experiment. 
 
 <p align="right"><a href="#table-of-contents">Back to Contents</a>
 
