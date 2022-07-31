@@ -73,7 +73,12 @@ More specifically...
 
 ## Navigating our Code
 
-The project is organized into several folders. The firstContact folder contains all of our files relevant to making successful first contact after a throw-in. The fullData folder contains the code we used to access all the necessary data and create files to store that data. The playerThrowIn folder holds all of our work relating to player-specific throw-in data, while the retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. Lastly, the shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
+The project is organized into several folders. 
+  + The firstContact folder contains all of our files relevant to making successful first contact after a throw-in. 
+  + The fullData folder contains the code we used to access all the necessary data and create files to store that data. 
+  + The playerThrowIn folder holds all of our work relating to player-specific throw-in data. 
+  + The retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. 
+  + The shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
 
 <p align="right"><a href="#table-of-contents">Back to Contents</a>
 
