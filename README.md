@@ -45,14 +45,14 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
 *    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
-*    [Plotly](https://plotly.com/);
-*    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html);
+*    [Plotly](https://plotly.com/); *
+*    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html); *
 *    [scikit-learn](https://scikit-learn.org/stable/);
-*    [SciPy](https://www.scipy.org/);
-*    [XGBoost](https://xgboost.readthedocs.io/en/latest/);
-*    [Hyperopt](https://github.com/hyperopt/hyperopt);
-*    [MLflow](https://github.com/mlflow/mlflow); 
-*    [SHAP](https://github.com/slundberg/shap);
+*    [SciPy](https://www.scipy.org/); *
+*    [XGBoost](https://xgboost.readthedocs.io/en/latest/); *
+*    [Hyperopt](https://github.com/hyperopt/hyperopt); *
+*    [MLflow](https://github.com/mlflow/mlflow); *
+*    [SHAP](https://github.com/slundberg/shap); *
 *    [statsbombpy](https://github.com/statsbomb/statsbombpy);
 *    [json](https://docs.python.org/3/library/json.html);
 *    [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html);
