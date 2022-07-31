@@ -67,7 +67,7 @@ This project can be used to analyze soccer throw-ins and provide soccer teams wi
 
 <a href="#table-of-contents">Back to Contents</a>
 
-## Roadmap
+## Navigating our Code Repo
 
 The project is organized into several folders. The firstContact folder contains all of our files relevant to making successful first contact after a throw-in. The fullData folder contains the code we used to access all the necessary data and create files to store that data. The playerThrowIn folder holds all of our work relating to player-specific throw-in data, while the retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. Lastly, the shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
 
@@ -80,7 +80,8 @@ Anna Hartman and Rachel Yang
 ## Contact
 
 Anna: aeha2020@mymail.pomona.edu
-Rachel:
+Rachel: ryaa2020@mymail.pomona.edu
+Project Link: https://github.com/ryaa2020/Throw-ins-Gain-the-Upper-Hand/
 
 ## Acknowledgments
 
