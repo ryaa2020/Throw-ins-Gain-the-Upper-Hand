@@ -43,7 +43,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [pandas](http://pandas.pydata.org/);
 *    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
 *    [scikit-learn](https://scikit-learn.org/stable/);
-*    [statsmodel] (https://www.statsmodels.org/stable/index.html);
+*    [statsmodel](https://www.statsmodels.org/stable/index.html);
 *    [statsbombpy](https://github.com/statsbomb/statsbombpy);
 *    [json](https://docs.python.org/3/library/json.html);
 *    [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html);
