@@ -73,10 +73,6 @@ The project is organized into several folders. The firstContact folder contains 
 
 <p align="right"><a href="#table-of-contents">Back to Contents</a>
 
-## Contributing
-
-Anna Hartman and Rachel Yang
-
 ## Contact
 
 Anna: aeha2020@mymail.pomona.edu
