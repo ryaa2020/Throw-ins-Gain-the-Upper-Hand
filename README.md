@@ -70,6 +70,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 
 ## Acknowledgments
 
+Thank you to Women in Sports Data for providing this opportunity for us to research this topic. We also want to thank our mentor, LJ Rader, for helping us throughout our process. Lastly, we want to thank Statsbomb for the ample amount of data they provided us with to do our research! 
 
 # StatsBomb Open Data
 
