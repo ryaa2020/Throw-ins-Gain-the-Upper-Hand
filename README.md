@@ -64,14 +64,25 @@ You will need to install the libraries listed above to run our code. You can fin
 
 This project can be used to analyze soccer throw-ins and provide soccer teams with data on how to more successfully utilize their throw-in opportunities.
 
+<a href="#table-of-contents">Back to Contents</a>
+
 ## Roadmap
 
+The project is organized into several folders. The firstContact folder contains all of our files relevant to making successful first contact after a throw-in. The fullData folder contains the code we used to access all the necessary data and create files to store that data. The playerThrowIn folder holds all of our work relating to player-specific throw-in data, while the retainPossession folder contains our work on determining whether a team retains possession of the ball after a throw-in. Lastly, the shotOnGoal folder contains unfinished files that investigate shot creation in relation to throw-ins. 
 
+<a href="#table-of-contents">Back to Contents</a>
 
 ## Contributing
 
+Anna Hartman and Rachel Yang
+
 ## Contact
+
+Anna: aeha2020@mymail.pomona.edu
+Rachel:
 
 ## Acknowledgments
 
 Thank you to Women in Sports Data for providing this opportunity for us to research this topic. We also want to thank our mentor, LJ Rader, for helping us throughout our process. Lastly, we want to thank Statsbomb for the ample amount of data they provided us with to do our research! 
+
+<a href="#table-of-contents">Back to Contents</a>
