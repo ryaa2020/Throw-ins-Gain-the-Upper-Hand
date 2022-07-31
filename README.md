@@ -7,7 +7,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#built with">Built With</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -27,8 +26,6 @@
 
 Our goal in this project was to analyze the success of throw-ins during soccer matches using throw-in location and other factors such as pass length, pass height, pass angle, and which player throws the ball in. We defined success a couple of different ways: one being whether the team executing the throw-in successfully makes first contact with the ball, and the other is whether the team executing the throw-in retains possession for at least seven seconds following the throw-in. 
 
-
-## Built With
 
 ## Getting Started
 
@@ -54,15 +51,22 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [re](https://docs.python.org/3/library/re.html); and
 *    [prettytable](https://pypi.org/project/prettytable/).
 
-<a href="#table-of-contents">Back to Contents</a>
-
 
 ### Installation
 
+You will need to install the libraries listed above to run our code. You can find instructions on how to do so [here](https://docs.python.org/3/installing/index.html).
+
+
+<a href="#table-of-contents">Back to Contents</a>
+
+
 ## Usage
 
+This project can be used to analyze soccer throw-ins and provide soccer teams with data on how to more successfully utilize their throw-in opportunities.
 
 ## Roadmap
+
+
 
 ## Contributing
 
