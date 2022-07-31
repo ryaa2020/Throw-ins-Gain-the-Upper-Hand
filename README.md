@@ -85,7 +85,7 @@ Rachel: ryaa2020@mymail.pomona.edu
 
 Project Link: https://github.com/ryaa2020/Throw-ins-Gain-the-Upper-Hand/
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#table-of-contents">Back to Contents</a>
 
 ## Acknowledgments
 
