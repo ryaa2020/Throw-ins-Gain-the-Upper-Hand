@@ -48,15 +48,15 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [SciPy](https://www.scipy.org/);
 *    [XGBoost](https://xgboost.readthedocs.io/en/latest/);
 *    [Hyperopt](https://github.com/hyperopt/hyperopt);
-*    [MLflow](https://github.com/mlflow/mlflow); and
-*    [SHAP](https://github.com/slundberg/shap).
-*    [statsbombpy] (https://github.com/statsbomb/statsbombpy)
-*    [json] (https://docs.python.org/3/library/json.html)
-*    [mplsoccer] (https://mplsoccer.readthedocs.io/en/latest/index.html)
-*    [seaborn] (https://seaborn.pydata.org/)
-*    [os] (https://docs.python.org/3/library/os.html)
-*    [re] (https://docs.python.org/3/library/re.html)
-*    [prettytable] (https://pypi.org/project/prettytable/)
+*    [MLflow](https://github.com/mlflow/mlflow); 
+*    [SHAP](https://github.com/slundberg/shap);
+*    [statsbombpy](https://github.com/statsbomb/statsbombpy);
+*    [json](https://docs.python.org/3/library/json.html);
+*    [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html);
+*    [seaborn](https://seaborn.pydata.org/);
+*    [os](https://docs.python.org/3/library/os.html);
+*    [re](https://docs.python.org/3/library/re.html); and
+*    [prettytable](https://pypi.org/project/prettytable/).
 
 <a href="#table-of-contents">Back to Contents</a>
 
