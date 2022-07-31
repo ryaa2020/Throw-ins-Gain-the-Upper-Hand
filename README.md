@@ -51,7 +51,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html);
 *    [seaborn](https://seaborn.pydata.org/);
 *    [os](https://docs.python.org/3/library/os.html);
-*    [re](https://docs.python.org/3/library/re.html); and
+*    [re](https://docs.python.org/3/library/re.html);
 
 <a href="#table-of-contents">Back to Contents</a>
 
