@@ -25,6 +25,9 @@
 
 ## About The Project
 
+Our goal in this project was to analyze the success of throw-ins during soccer matches using throw-in location and other factors such as pass length, pass height, pass angle, and which player throws the ball in. We defined success a couple of different ways: one being whether the team executing the throw-in successfully makes first contact with the ball, and the other is whether the team executing the throw-in retains possession for at least seven seconds following the throw-in. 
+
+
 ## Built With
 
 ## Getting Started
@@ -42,14 +45,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
 *    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
-*    [Plotly](https://plotly.com/);
-*    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html);
 *    [scikit-learn](https://scikit-learn.org/stable/);
-*    [SciPy](https://www.scipy.org/);
-*    [XGBoost](https://xgboost.readthedocs.io/en/latest/);
-*    [Hyperopt](https://github.com/hyperopt/hyperopt);
-*    [MLflow](https://github.com/mlflow/mlflow); 
-*    [SHAP](https://github.com/slundberg/shap);
 *    [statsbombpy](https://github.com/statsbomb/statsbombpy);
 *    [json](https://docs.python.org/3/library/json.html);
 *    [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html);
@@ -65,6 +61,7 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 
 ## Usage
 
+
 ## Roadmap
 
 ## Contributing
@@ -73,26 +70,4 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 
 ## Acknowledgments
 
-
-# StatsBomb Open Data
-
-Welcome to the StatsBomb Open Data repository.
-
-StatsBomb are committed to sharing new data and research publicly to enhance understanding of the game of Football. We want to actively encourage new research and analysis at all levels. Therefore we have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.
-
-StatsBomb are hoping that by making data freely available, we will extend the wider football analytics community and attract new talent to the industry.
-
-## Terms & Conditions
-
-If you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our [Media Pack](https://statsbomb.com/media-pack/).
-
-## Getting Started
-
-The [data](./data/) is provided as JSON files exported from the StatsBomb Data API, in the following structure:
-
-* Competition and seasons stored in [`competitions.json`](./data/competitions.json).
-* Matches for each competition and season, stored in [`matches`](./data/matches/). Each folder within is named for a competition ID, each file is named for a season ID within that competition.
-* Events and lineups for each match, stored in [`events`](./data/events/) and [`lineups`](./data/lineups/) respectively. Each file is named for a match ID.
-* StatsBomb 360 data for selected matches, stored in [`three-sixty`](./data/three-sixty/). Each file is named for a match ID.
-
-Some documentation about the meaning of different events and the format of the JSON can be found in the [`doc`](./doc) directory.
+Thank you to Women in Sports Data for providing this opportunity for us to research this topic. We also want to thank our mentor, LJ Rader, for helping us throughout our process. Lastly, we want to thank Statsbomb for the ample amount of data they provided us with to do our research! 
