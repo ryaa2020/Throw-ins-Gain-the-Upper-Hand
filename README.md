@@ -65,8 +65,8 @@ You will need to install the libraries listed above to run our code. You can fin
 This project can be used to analyze soccer throw-ins and provide soccer teams with data on how to more successfully utilize their throw-in opportunities.
 More specifically... 
   + Defensively, teams can strategize when clearing the ball out of play – they may be able to control what section of the sideline they kick it out at, allowing them to direct the throw-in to areas of lower success for the throw-in team. 
-  + Offensively, our work demonstrates some of the strategies for throwing the ball in successfully when it comes to variables like angle and distance, as well as giving data on which players are best at performing throw-ins. 
-  + Moreover, teams can adjust their throw-in set pieces, leading to more scoring opportunities. Coaching staff can also analyze the throw-ins of players on other teams who often throw the ball in and use our data to predict their tendencies, such as throwing in the ball low or high, in order to best defend against their throw-in. Our data can also help determine which players are best at throw-ins and others who may need some practice. 
+  + Offensively, our work demonstrates some of the strategies for throwing the ball in successfully when it comes to variables like angle and distance, as well as giving data on which players are best at performing throw-ins. Moreover, teams can adjust their throw-in set pieces, leading to more scoring opportunities. 
+  + Coaching staff can also analyze the throw-ins of players on other teams who often throw the ball in and use our data to predict their tendencies, such as throwing in the ball low or high, in order to best defend against their throw-in. Our data can also help determine which players are best at throw-ins and others who may need some practice. 
 
 
 <p align="right"><a href="#table-of-contents">Back to Contents</a>
