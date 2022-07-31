@@ -25,6 +25,9 @@
 
 ## About The Project
 
+Our goal in this project was to analyze the success of throw-ins during soccer matches using throw-in location and other factors such as pass length, pass height, pass angle, and which player throws the ball in. We defined success a couple of different ways: one being whether the team executing the throw-in successfully makes first contact with the ball, and the other is whether the team executing the throw-in retains possession for at least seven seconds following the throw-in. 
+
+
 ## Built With
 
 ## Getting Started
